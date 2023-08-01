@@ -7,12 +7,11 @@ This project showcases:
 - **Effect size reporting:** Sometimes a p-value is not enough. I include effect sizes when discussing differences between groups to better contexualize the significance of the findings.
 - **Group visualization:** I show how to effectively visualize data from different groups in order to facilitate comparisons including box plots, violin plots, pie charts, and time-series plots.
 
+### Website blog post
+https://www.nolaneley.com/portfolio/streaming-royalties
+
 ### Code and Resources Used
 **Python Version**: 3.11.4 **Packages**: pandas, NumPy, Matplotlib, Seaborn, SciPy, cliffs\_delta, scikit\_posthocs
-
-### Website blog post
-
-https://www.nolaneley.com/streaming_royalties
 
 ### Data sources and cleaning
 - Data was downloaded from the distribution service used by my former band as a tab delimited text file
