@@ -11,7 +11,9 @@ This project showcases:
 https://www.nolaneley.com/portfolio/streaming-royalties
 
 ### Code and Resources Used
-**Python Version**: 3.11.4 **Packages**: pandas, NumPy, Matplotlib, Seaborn, SciPy, cliffs\_delta, scikit\_posthocs
+**Python Version**: 3.11.4
+
+**Packages**: pandas, NumPy, Matplotlib, Seaborn, SciPy, cliffs\_delta, scikit\_posthocs
 
 ### Data sources and cleaning
 - Data was downloaded from the distribution service used by my former band as a tab delimited text file
